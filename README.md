@@ -1,50 +1,28 @@
 ### Hi there 👋
-Below you can find the following projects I've developed in my courses at the University of Utah:
+I'm a developer with a passion for creating engaging and efficient software. Here are some of the projects I've developed at the University of Utah:
 
-1. BlackJack Educational App
-    - Written in C++
-    - Developed in Qt Creator
-    - Compiled using qMake
-    - Implements Box2D Library
-    - Compatible with both MacOS & Windows
-    - Team Based using Scrum & Agile Methodologies
-    - Teaches users how to play the game of BlackJack
+#### 🃏 BlackJack Educational App
+- **Languages & Tools:** C++, Qt Creator, qMake, Box2D
+- **Compatibility:** MacOS, Windows
+- **Methodology:** Scrum & Agile (Team)
+- **Description:** A fun app to teach BlackJack gameplay.
 
-2. Sprite Editor
-    - Written in C++
-    - Developed in Qt Creator
-    - Compiled using qMake
-    - Compatible with both MacOS & Windows
-    - Team Based using Waterfall Methodology
-    - Allows artists to create pixel art in many ways
-  
-3. Simon Game
-    - Written in C++
-    - Developed in Qt Creator
-    - Compiled using qMake
-    - Compatible with both MacOS & Windows
-    - Solo Development
-    - Iconic repetition game with a fun twist
+#### 🎨 Sprite Editor
+- **Languages & Tools:** C++, Qt Creator, qMake
+- **Compatibility:** MacOS, Windows
+- **Methodology:** Waterfall (Team)
+- **Description:** Enables artists to craft pixel art.
 
-4. Spreadsheet Editor
-    - Written in C#
-    - Developed in Visual Studio
-    - Compatible with all platforms
-    - Utilizes the .Net MAUI Framework
-    - Solo Development
-    - UI inspired by the iOS Calculator App
+#### 🎵 Simon Game
+- **Languages & Tools:** C++, Qt Creator, qMake
+- **Compatibility:** MacOS, Windows
+- **Development:** Solo
+- **Description:** A twist on the classic memory game.
 
-<!--
-**landonwest815/landonwest815** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### 📊 Spreadsheet Editor
+- **Languages & Tools:** C#, Visual Studio, .Net MAUI
+- **Compatibility:** All platforms
+- **Development:** Solo
+- **Description:** A UI inspired by iOS Calculator.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Feel free to reach out or explore my repositories for more insights into my work!
