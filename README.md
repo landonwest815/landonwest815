@@ -4,7 +4,7 @@ I'm a developer with a passion for creating engaging and efficient software. Her
 
 <table>
   <tr>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color:white;">>
 
 #### 🃏 [BlackJack Educational App](https://github.com/landonwest815/blackjack-educational-app)
 - **Languages & Tools:** C++, Qt Creator, qMake, Box2D
