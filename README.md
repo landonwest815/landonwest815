@@ -1,5 +1,5 @@
 ### Hi there 👋
-Below you can find the following projects:
+Below you can find the following projects I've developed in my courses at the University of Utah:
 
 1. BlackJack Educational App
     - Written in C++
