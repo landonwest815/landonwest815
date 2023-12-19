@@ -7,7 +7,7 @@ I'm a developer with a passion for creating engaging and efficient software. Her
 - **Methodology:** Scrum & Agile (Team)
 - **Description:** A fun app to teach BlackJack gameplay.
 
-#### 🎨 [Sprite Editor](https://github.com/landonwest/sprite-editor)
+#### 🎨 [Sprite Editor](https://github.com/landonwest815/sprite-editor)
 - **Languages & Tools:** C++, Qt Creator, qMake
 - **Compatibility:** MacOS, Windows
 - **Methodology:** Waterfall (Team)
