@@ -13,7 +13,7 @@ I'm a developer with a passion for creating engaging and efficient software. Her
 - **Description:** A fun app to teach BlackJack gameplay.
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color:white;">
 
 #### 🎨 [Sprite Editor](https://github.com/landonwest815/sprite-editor)
 - **Languages & Tools:** C++, Qt Creator, qMake
@@ -24,7 +24,7 @@ I'm a developer with a passion for creating engaging and efficient software. Her
     </td>
   </tr>
   <tr>
-   <td valign="top" width="50%">
+   <td valign="top" width="50%" style="background-color:white;">
 
 #### 🎵 [Simon Game](https://github.com/landonwest815/simon-game)
 - **Languages & Tools:** C++, Qt Creator, qMake
@@ -33,7 +33,7 @@ I'm a developer with a passion for creating engaging and efficient software. Her
 - **Description:** A twist on the classic memory game.
 
     </td>
-    <td valign="top" width="50%">
+    <td valign="top" width="50%" style="background-color:white;">
 
 #### 📊 [Spreadsheet Editor](https://github.com/landonwest815/spreadsheet-editor)
 - **Languages & Tools:** C#, Visual Studio, .Net MAUI
