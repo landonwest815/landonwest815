@@ -52,7 +52,7 @@ Here are some of the projects I've developed on my own time:
   <tr>
     <td valign="top" width="50%">
 
-#### ❤️🧠 [Wants + Needs](https://github.com/landonwest815/blackjack-educational-app)
+#### ❤️🧠 [Wants + Needs](https://github.com/landonwest815/wants-and-needs)
 - **Languages & Tools:** Swift, Xcode, SwiftUI, App Customization
 - **Compatibility:** iOS
 - **Description:** A useful tool to keep track of various wants and needs.
@@ -60,7 +60,7 @@ Here are some of the projects I've developed on my own time:
     </td>
     <td valign="top" width="50%">
 
-#### 🏀 [Hoops](https://github.com/landonwest815/sprite-editor)
+#### 🏀 [Hoops](https://github.com/landonwest815/Hoops)
 - **Languages & Tools:** Swift, Xcode, SwiftUI, watchOS
 - **Compatibility:** iOS, watchOS
 - **Description:** A basketball companion app to track your shots of varying types.
