@@ -45,4 +45,27 @@ I'm a developer with a passion for creating engaging software. Here are some of 
   </tr>
 </table>
 
+Here are some of the projects I've developed on my own time:
+
+<table>
+  <tr>
+    <td valign="top" width="50%">
+
+#### 🃏 [Wants + Needs](https://github.com/landonwest815/blackjack-educational-app)
+- **Languages & Tools:** Swift, Xcode, SwiftUI, App Customization
+- **Compatibility:** iOS
+- **Description:** A useful tool to keep track of various wants and needs.
+
+    </td>
+    <td valign="top" width="50%">
+
+#### 🎨 [Hoops](https://github.com/landonwest815/sprite-editor)
+- **Languages & Tools:** Swift, Xcode, SwiftUI, watchOS
+- **Compatibility:** iOS, watchOS
+- **Description:** A basketball companion app to track your shots of varying types.
+
+    </td>
+  </tr>
+</table>
+
 Feel free to reach out or explore my repositories for more insights into my work!
