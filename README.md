@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm a developer with a passion for creating engaging software. \n
+I'm a developer with a passion for creating engaging software.
 Here are some of the projects I've developed at the University of Utah:
 
 <table>
