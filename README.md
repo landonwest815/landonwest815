@@ -96,26 +96,20 @@ I'm a Computer Science student at the University of Utah with a passion for buil
   <tr>
     <td valign="top" width="50%">
 
-#### 🧠 [ContactsApp](https://github.com/landonwest815/ContactsApp)
+#### 🧠 [Inkdroid](https://github.com/landonwest815/Inkdroid)
 - **Kotlin, MVVM, Android Studio**
-- **Description:** A modern CRUD-based contacts app with responsive design.
+- **Description:** A modern CRUD-based drawing app with responsive touch-based actions.
 
   </td>
   <td valign="top">
 
-#### 🔄 [FunFacts](https://github.com/landonwest815/FunFacts)
-- **Kotlin, Retrofit**
-- **Description:** A quick-loading app that fetches fun facts from an API with an animated UI.
+#### 🔄 [Gyromon](https://github.com/landonwest815/Gyromon)
+- **Kotlin, Sensors**
+- **Description:** A fun game that utilizes the gyrosphere sensor to catch pokemon!
 
   </td>
 </tr>
 </table>
-
----
-
-### 🧠 Always Building
-
-From AI productivity experiments like [OrbitAI](https://github.com/landonwest815/OrbitAI) to creative mood-based apps like [SFriend](https://github.com/landonwest815/SFriend), I'm always exploring new ideas to bring to life through thoughtful design and clean code.
 
 ---
 
